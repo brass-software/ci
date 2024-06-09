@@ -2,7 +2,7 @@ module github.com/brass-software/ci
 
 go 1.22.1
 
-require github.com/mikerybka/util v0.0.0-20240605214919-507a7ac19fbb
+require github.com/mikerybka/util v0.0.0-20240609202527-17ab4c19362f
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
